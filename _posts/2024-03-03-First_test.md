@@ -1,8 +1,9 @@
 ---
-title: 암호학 정리
+title: 암호학
 date: YYYY-MM-DD HH:MM:SS +09:00
-categories: [Main, 암호학]
-tags:[암호학,Crypto,Cryptography]
+categories: [Main, Cryptography]
+tags:
+  [암호학,Crypto,Cryptography]
 ---
 # 암호학 정리
 >암호 공부하며 정리 <br>
