@@ -8,8 +8,12 @@ tags:
 # Github 뱃지 추가
 가끔 Github을 구경하다보면 아래와 같은 뱃지들을 볼 수 있다.<br>
 
-|![Static Badge](https://img.shields.io/badge/Docker-007396.svg?style=plastic&logo=docker&logoColor=white){: .align-left} |![Static Badge](https://img.shields.io/badge/3.10-python-green.svg?style=plastic&logo=python&logoColor=white){: .align-left}|![Static Badge](https://img.shields.io/badge/K8S-blue.svg?style=plastic&logo=kubernetes&logoColor=white){: .align-left}|![Static Badge](https://img.shields.io/badge/Twitter-Hi-white.svg?style=social&logo=x&logoColor=black){: .align-left}|![Static Badge](https://img.shields.io/badge/Github-black.svg?style=flat&logo=github&logoColor=white){: .align-left}|
+![Static Badge](https://img.shields.io/badge/Docker-007396.svg?style=plastic&logo=docker&logoColor=white){: .align-left}, 
+![Static Badge](https://img.shields.io/badge/3.10-python-green.svg?style=plastic&logo=python&logoColor=white){: .align-left}
+<!--
+|![Static Badge](https://img.shields.io/badge/Docker-007396.svg?style=plastic&logo=docker&logoColor=white){: .align-left}|![Static Badge](https://img.shields.io/badge/3.10-python-green.svg?style=plastic&logo=python&logoColor=white){: .align-left}|![Static Badge](https://img.shields.io/badge/K8S-blue.svg?style=plastic&logo=kubernetes&logoColor=white){: .align-left}|![Static Badge](https://img.shields.io/badge/Twitter-Hi-white.svg?style=social&logo=x&logoColor=black){: .align-left}|![Static Badge](https://img.shields.io/badge/Github-black.svg?style=flat&logo=github&logoColor=white){: .align-left}|
 |---|---|---|---|---|
+-->
 
 이런 뱃지들을 자신의 github README, Blog 또는 사이트에 추가하는 방법을 알아보자
 <br><br>
@@ -58,14 +62,17 @@ https://simpleicons.org/ <br>
 <br>
 
 ![Static Badge](https://img.shields.io/badge/3.10-python-green.svg?style=plastic&logo=python&logoColor=white){: class="left"}<br>
+
 Link : `https://img.shields.io/badge/3.7.3-python-green.svg?style=plastic&logo=python&logoColor=white`
 
 <br>
 
 ![Static Badge](https://img.shields.io/badge/docker-blue.svg?style=plastic&logo=docker&logoColor=white){: class="left"}<br>
+
 Link :  `https://img.shields.io/badge/docker-blue.svg?style=plastic&logo=docker&logoColor=white`
 
 <br>
 
 ![Static Badge](https://img.shields.io/badge/ChatGPT-74AA9C.svg?style=plastic&logo=openai&logoColor=white){: class="left"}<br>
+
 Link :  `https://img.shields.io/badge/docker-blue.svg?style=plastic&logo=docker&logoColor=white`
