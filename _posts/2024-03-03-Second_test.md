@@ -11,10 +11,18 @@ tags:
 
 올해 1월 CES 2024 행사에서 발표된 기기 중 개인적으로 가장 시선을 사로잡은 제품은 Rabbit R1이였다.<br>
 
-<iframe width="420" height="315" src="https://youtu.be/vp52L6UlmJY?feature=shared" frameborder="0.1" allowfullscreen></iframe>
+<iframe
+  class="embed-video youtube lazyload"
+  src="https://www.youtube.com/embed/vp52L6UlmJY"
+  title="YouTube video player"
+  frameborder="0"
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen
+></iframe>
 
-[Rabbit inc](https://www.rabbit.tech)
+Link : [Rabbit inc](https://www.rabbit.tech)
 
+<br>
 > Rabbit R1 ?
 
 휴대용 개인 AI 비서 기기라는 컨셉으로 만들어진
@@ -55,8 +63,7 @@ ChatGPT의 경우 질문에 대한 `대답`을 할 수는 있지만, 사용자�
 > 그래서 구매했을까 ?
 
 **구매했다.**<br>
-지난 주말 Rabbit R1을 구매하였다.<br>
-설득의 과정이 있었지만 <br>
+설득의 과정이 있었지만..! <br>
 
 <br>
 
