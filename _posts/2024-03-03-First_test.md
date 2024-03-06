@@ -1,7 +1,7 @@
 ---
 title: 암호학
 date: YYYY-MM-DD HH:MM:SS +09:00
-categories: [Main, Cryptography]
+categories: [Main, 암호학]
 tags:
   [암호학,Crypto,Cryptography]
 ---
