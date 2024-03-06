@@ -60,15 +60,15 @@ https://simpleicons.org/ <br>
 
 <br>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/3.7.3-python-green.svg?style=plastic&logo=python&logoColor=white" align="left"><br>
+![Static Badge](https://img.shields.io/badge/3.10-python-green.svg?style=plastic&logo=python&logoColor=white){: class="left"}<br>
 `https://img.shields.io/badge/3.7.3-python-green.svg?style=plastic&logo=python&logoColor=white`
 
 <br>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/docker-blue.svg?style=plastic&logo=docker&logoColor=white" align="left"><br>
+![Static Badge](https://img.shields.io/badge/docker-blue.svg?style=plastic&logo=docker&logoColor=white){: class="left"}<br>
 `https://img.shields.io/badge/docker-blue.svg?style=plastic&logo=docker&logoColor=white`
 
 <br>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/ChatGPT-74AA9C.svg?style=plastic&logo=openai&logoColor=white" align="left"><br>
+![Static Badge](https://img.shields.io/badge/ChatGPT-74AA9C.svg?style=plastic&logo=openai&logoColor=white){: class="left"}<br>
 `https://img.shields.io/badge/docker-blue.svg?style=plastic&logo=docker&logoColor=white`
