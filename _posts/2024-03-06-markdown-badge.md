@@ -8,7 +8,7 @@ tags:
 # Github 뱃지 추가
 가끔 Github을 구경하다보면 아래와 같은 뱃지들을 볼 수 있다.<br>
 
-{:style="text-align:center;"}
+{:style="text-align:left;"}
 ![Static Badge](https://img.shields.io/badge/Docker-007396.svg?style=plastic&logo=docker&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/3.10-python-green.svg?style=plastic&logo=python&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/K8S-blue.svg?style=plastic&logo=kubernetes&logoColor=white)
@@ -61,18 +61,15 @@ https://simpleicons.org/ <br>
 
 <br>
 
-{:style="text-align:center;"}
-![Static Badge](https://img.shields.io/badge/3.10-python-green.svg?style=plastic&logo=python&logoColor=white)<br>
+<img alt="Static Badge" src="https://img.shields.io/badge/3.7.3-python-green.svg?style=plastic&logo=python&logoColor=white"><br>
 `https://img.shields.io/badge/3.7.3-python-green.svg?style=plastic&logo=python&logoColor=white`
 
 <br>
 
-{:style="text-align:center;"}
-![Static Badge](https://img.shields.io/badge/docker-blue.svg?style=plastic&logo=docker&logoColor=white)<br>
+<img alt="Static Badge" src="https://img.shields.io/badge/docker-blue.svg?style=plastic&logo=docker&logoColor=white"><br>
 `https://img.shields.io/badge/docker-blue.svg?style=plastic&logo=docker&logoColor=white`
 
 <br>
 
-{:style="text-align:center;"}
-![Static Badge](https://img.shields.io/badge/ChatGPT-74AA9C.svg?style=plastic&logo=openai&logoColor=white)<br>
+<img alt="Static Badge" src="https://img.shields.io/badge/ChatGPT-74AA9C.svg?style=plastic&logo=openai&logoColor=white"><br>
 `https://img.shields.io/badge/docker-blue.svg?style=plastic&logo=docker&logoColor=white`
