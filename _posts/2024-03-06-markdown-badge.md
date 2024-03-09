@@ -8,6 +8,9 @@ tags:
 # Github 뱃지 추가
 가끔 Github을 구경하다보면 아래와 같은 뱃지들을 볼 수 있다.<br>
 
+<img src="https://img.shields.io/badge/Docker-007396.svg?style=plastic&logo=docker&logoColor=white" align="center" width="15%" style="padding:3px">
+
+<!--
 <p align="left">  
     <img src="https://img.shields.io/badge/Docker-007396.svg?style=plastic&logo=docker&logoColor=white" align="center" width="15%" style="padding:3px">
     <img src="https://img.shields.io/badge/3.10-python-green.svg?style=plastic&logo=python&logoColor=white" align="center" width="15%" style="padding:3px">
@@ -15,6 +18,7 @@ tags:
     <img src="https://img.shields.io/badge/Twitter-Hi-white.svg?style=social&logo=x&logoColor=black" align="center" width="15%" style="padding:3px">
     <img src="https://img.shields.io/badge/Github-black.svg?style=flat&logo=github&logoColor=white" align="center" width="15%" style="padding:3px">
 </p>
+-->
 
 이런 뱃지들을 자신의 github README, Blog 또는 사이트에 추가하는 방법을 알아보자
 <br><br>
